@@ -1,22 +1,40 @@
-Olá! 👋 Eu sou Shara, uma estudante apaixonada por tecnologia e atualmente no 1° período do curso de Engenharia de Software. Estou empolgada em aprender e compartilhar minhas aventuras neste incrível mundo da programação e do desenvolvimento de software.
+## Hello World! 🌙
 
-Sobre Mim
-🌱 Atualmente estou estudando na Estácio de Sá.
-💡 Tenho interesse em desenvolvimento web, programação orientada a objetos e design de interfaces.
-🎯 Meu objetivo é me aprofundar na área de desenvolvimento de aplicações inovadoras que impactem positivamente a sociedade.
-💬 Adoro aprender com os outros e estou sempre aberta a novas ideias e desafios.
+Bem-vindos ao meu perfil! 
 
-Minhas Atividades
-👩‍💻 Estou explorando linguagens de programação como Java, Python e JavaScript.
-🌐 Desenvolvendo pequenos projetos web para aplicar meus conhecimentos em HTML, CSS e talvez um pouco de React.
-📚 Aprendendo sobre estruturas de dados e algoritmos para construir uma base sólida em resolução de problemas.
-🤝 Colaborando com outros estudantes em projetos acadêmicos e participando de grupos de estudo.
+- Desenvolvedora FullStack - DIO (Em andamento)
+- Engenharia de Sofware - Estácio de Sá (Em andamento)
 
-Conecte-se comigo
-📧 Email
-💼 LinkedIn
-🐦 Twitter
-📷 Instagram
-Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado. Se você tem alguma dica, sugestão ou apenas quer bater um papo sobre tecnologia, não hesite em entrar em contato! Vamos crescer juntos nessa jornada emocionante! 😄
 
-"O importante é nunca parar de questionar." - Albert Einstein
+<img src="https://media.tenor.com/4RYbGa1GttQAAAAd/lofi-browsing.gif" alt="image" height="500" width="500">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharaRSousa&theme=dracula&show_icons=true)
+
+###
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="image" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="image" height="40" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="image" height="40" width="40">
+</div>
+
+### Conecte-se comigo:
+<div>
+<a href="https://www.instagram.com/shararsousaofficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/profile.php?id=100082837994806" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/shara-rodrigues-a30aa8237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="shararsousa@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blanck">
+</div>
+
+### Estudando:
+
+<div>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank"></a>
+<a href = "#"><img src="	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+</div>
+
