@@ -2,7 +2,6 @@
 
 Bem-vindos ao meu perfil! 
 
-- Desenvolvedora FullStack - DIO (Em andamento)
 - Engenharia de Sofware - Estácio de Sá (Em andamento)
 
 
