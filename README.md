@@ -5,7 +5,7 @@ Bem-vindos ao meu perfil!
 - Engenharia de Sofware - Uniasselvi (2024 - 2028)
 
 
-<img src="[https://media.tenor.com/4RYbGa1GttQAAAAd/lofi-browsing.gif](https://i.pinimg.com/originals/65/15/5c/65155c24c6a0033db647f9d09d8aa990.gif)" alt="image" height="500" width="500">
+<img src="[https://i.pinimg.com/originals/65/15/5c/65155c24c6a0033db647f9d09d8aa990.gif]" alt="image" height="500" width="500">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharaRSousa&theme=dracula&show_icons=true)
 
